@@ -2,9 +2,11 @@
 
 # Setting up a new computer
 
-## Install Linux Mint
+## Install OS
 
-- Download ISO on [linuxmint.com](https://www.linuxmint.com/)
+- Download ISO on:
+  - [linuxmint.com](https://www.linuxmint.com/)
+  - [omarchy.org](https://omarchy.org/)
 - Create bootable USB [community.linuxmint.com](https://community.linuxmint.com/tutorial/view/744)
 - Install
 
